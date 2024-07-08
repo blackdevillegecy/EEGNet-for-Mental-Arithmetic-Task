@@ -8,3 +8,7 @@ Steps to follow
 - Change the "parent_dir_path", "zip_path" and "data_dir_path" in "Load the data" section according to the working environment.
 - Also, change the paths for copying and deleting the files and folder respectively according to the defined data_dir_path
 - Run the remaining sections
+
+Further Code Modifications
+- One can change the frequency range for exploring different power spectral density
+- One can change the parameters of the EEGNet and explore it.
